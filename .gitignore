@@ -1,0 +1,87 @@
+# =========================================================================
+# Grosir Sembako Makmur POS - Desktop App (.gitignore)
+# =========================================================================
+
+# Java Compilation & Build Outputs
+bin/
+build/
+dist/
+out/
+target/
+*.class
+sources.txt
+
+# Package & Archive Files (keep required dependencies in lib/)
+*.jar
+!lib/*.jar
+!lib/**/*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JVM Crash Logs & Reports
+hs_err_pid*
+replay_pid*
+
+# Log & Temporary Files
+*.log
+logs/
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Exported Reports and Receipts
+NOTA-*.txt
+Laporan_*.csv
+
+# Local Application Data (optional)
+# Uncomment the line below if local transactions/product modifications shouldn't be tracked
+# data/*.json
+
+# IDE & Editor Configurations
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Operating System Files
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+.directory

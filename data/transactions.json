@@ -1,0 +1,515 @@
+[
+  {
+    "invoiceNumber": "NOTA-20261023-0011",
+    "transactionDate": "2026-10-23 22:27:52",
+    "customerName": "Toko Rejeki - Semarang",
+    "customerPhone": "",
+    "items": [
+      {
+        "productCode": "BRG-001",
+        "productName": "Beras Ramos Premium 5kg",
+        "unit": "Sak",
+        "purchasePrice": 68000.0,
+        "sellingPrice": 81600.0,
+        "quantity": 1,
+        "subtotal": 81600.0
+      },
+      {
+        "productCode": "BRG-004",
+        "productName": "Minyak Goreng Bimoli 2L",
+        "unit": "Pcs",
+        "purchasePrice": 36000.0,
+        "sellingPrice": 46800.0,
+        "quantity": 2,
+        "subtotal": 93600.0
+      },
+      {
+        "productCode": "BRG-010",
+        "productName": "Tepung Cakra Kembar Karung 25kg",
+        "unit": "Karung",
+        "purchasePrice": 275000.0,
+        "sellingPrice": 302500.0,
+        "quantity": 5,
+        "subtotal": 1512500.0
+      },
+      {
+        "productCode": "BRG-005",
+        "productName": "Minyak Sania Karton (6x2L)",
+        "unit": "Karton",
+        "purchasePrice": 210000.0,
+        "sellingPrice": 231000.0,
+        "quantity": 1,
+        "subtotal": 231000.0
+      },
+      {
+        "productCode": "BRG-013",
+        "productName": "Indomie Goreng Dus (40 pcs)",
+        "unit": "Dus",
+        "purchasePrice": 112000.0,
+        "sellingPrice": 128800.0,
+        "quantity": 1,
+        "subtotal": 128800.0
+      },
+      {
+        "productCode": "BRG-012",
+        "productName": "Telur Bebek Asin Brebes Tray (30)",
+        "unit": "Tray",
+        "purchasePrice": 85000.0,
+        "sellingPrice": 102000.0,
+        "quantity": 4,
+        "subtotal": 408000.0
+      },
+      {
+        "productCode": "BRG-019",
+        "productName": "Kecap Manis Bango 1.5L Pouch",
+        "unit": "Pcs",
+        "purchasePrice": 42000.0,
+        "sellingPrice": 54600.0,
+        "quantity": 3,
+        "subtotal": 163800.0
+      },
+      {
+        "productCode": "BRG-023",
+        "productName": "Margarin Blue Band Master 15kg",
+        "unit": "Dus",
+        "purchasePrice": 320000.0,
+        "sellingPrice": 352000.0,
+        "quantity": 10,
+        "subtotal": 3520000.0
+      }
+    ],
+    "totalJual": 6139300.0,
+    "paymentType": "CASH",
+    "tempoWeeks": 0,
+    "taxRate": 0.11,
+    "taxAmount": 675323.0,
+    "interestRate": 0.0,
+    "interestAmount": 0.0,
+    "totalBayar": 6814623.0,
+    "cashPaid": 6820000.0,
+    "changeAmount": 5377.0,
+    "souvenir": "Voucher Belanja Rp 100rb",
+    "status": "LUNAS"
+  },
+  {
+    "invoiceNumber": "NOTA-20261018-0001",
+    "transactionDate": "2026-10-18 08:20:52",
+    "customerName": "Warung Mbak Sri - Tembalang",
+    "customerPhone": "081234111222",
+    "items": [
+      {
+        "productCode": "BRG-004",
+        "productName": "Minyak Goreng Bimoli 2L",
+        "unit": "Pcs",
+        "purchasePrice": 36000.0,
+        "sellingPrice": 46800.0,
+        "quantity": 1,
+        "subtotal": 46800.0
+      },
+      {
+        "productCode": "BRG-007",
+        "productName": "Gula Pasir Gulaku 1kg",
+        "unit": "Kg",
+        "purchasePrice": 17500.0,
+        "sellingPrice": 26300.0,
+        "quantity": 1,
+        "subtotal": 26300.0
+      }
+    ],
+    "totalJual": 73100.0,
+    "paymentType": "CASH",
+    "tempoWeeks": 0,
+    "taxRate": 0.11,
+    "taxAmount": 8041.0,
+    "interestRate": 0.0,
+    "interestAmount": 0.0,
+    "totalBayar": 81141.0,
+    "cashPaid": 100000.0,
+    "changeAmount": 18859.0,
+    "souvenir": "Tidak Ada",
+    "status": "LUNAS",
+    "notes": "Belanja eceran harian"
+  },
+  {
+    "invoiceNumber": "NOTA-20261019-0002",
+    "transactionDate": "2026-10-19 10:15:52",
+    "customerName": "Toko Sumber Berkah - Ungaran",
+    "customerPhone": "081234567890",
+    "items": [
+      {
+        "productCode": "BRG-004",
+        "productName": "Minyak Goreng Bimoli 2L",
+        "unit": "Pcs",
+        "purchasePrice": 36000.0,
+        "sellingPrice": 46800.0,
+        "quantity": 4,
+        "subtotal": 187200.0
+      },
+      {
+        "productCode": "BRG-007",
+        "productName": "Gula Pasir Gulaku 1kg",
+        "unit": "Kg",
+        "purchasePrice": 17500.0,
+        "sellingPrice": 26300.0,
+        "quantity": 5,
+        "subtotal": 131500.0
+      }
+    ],
+    "totalJual": 318700.0,
+    "paymentType": "CASH",
+    "tempoWeeks": 0,
+    "taxRate": 0.11,
+    "taxAmount": 35057.0,
+    "interestRate": 0.0,
+    "interestAmount": 0.0,
+    "totalBayar": 353757.0,
+    "cashPaid": 400000.0,
+    "changeAmount": 46243.0,
+    "souvenir": "Mangkok Keramik",
+    "status": "LUNAS",
+    "notes": "Kulakan toko sembako"
+  },
+  {
+    "invoiceNumber": "NOTA-20261020-0003",
+    "transactionDate": "2026-10-20 13:45:52",
+    "customerName": "Katering Bu Harsono - Semarang",
+    "customerPhone": "081390123456",
+    "items": [
+      {
+        "productCode": "BRG-001",
+        "productName": "Beras Ramos Premium 5kg",
+        "unit": "Sak",
+        "purchasePrice": 68000.0,
+        "sellingPrice": 81600.0,
+        "quantity": 4,
+        "subtotal": 326400.0
+      },
+      {
+        "productCode": "BRG-005",
+        "productName": "Minyak Sania Karton (6x2L)",
+        "unit": "Karton",
+        "purchasePrice": 210000.0,
+        "sellingPrice": 231000.0,
+        "quantity": 1,
+        "subtotal": 231000.0
+      }
+    ],
+    "totalJual": 557400.0,
+    "paymentType": "CASH",
+    "tempoWeeks": 0,
+    "taxRate": 0.11,
+    "taxAmount": 61314.0,
+    "interestRate": 0.0,
+    "interestAmount": 0.0,
+    "totalBayar": 618714.0,
+    "cashPaid": 700000.0,
+    "changeAmount": 81286.0,
+    "souvenir": "Payung Lipat",
+    "status": "LUNAS",
+    "notes": "Bahan baku katering"
+  },
+  {
+    "invoiceNumber": "NOTA-20261021-0004",
+    "transactionDate": "2026-10-21 11:30:52",
+    "customerName": "Warung Bu Hj. Aminah - Semarang",
+    "customerPhone": "082198765432",
+    "items": [
+      {
+        "productCode": "BRG-001",
+        "productName": "Beras Ramos Premium 5kg",
+        "unit": "Sak",
+        "purchasePrice": 68000.0,
+        "sellingPrice": 81600.0,
+        "quantity": 5,
+        "subtotal": 408000.0
+      },
+      {
+        "productCode": "BRG-013",
+        "productName": "Indomie Goreng Dus (40 pcs)",
+        "unit": "Dus",
+        "purchasePrice": 112000.0,
+        "sellingPrice": 128800.0,
+        "quantity": 3,
+        "subtotal": 386400.0
+      }
+    ],
+    "totalJual": 794400.0,
+    "paymentType": "CASH",
+    "tempoWeeks": 0,
+    "taxRate": 0.11,
+    "taxAmount": 87384.0,
+    "interestRate": 0.0,
+    "interestAmount": 0.0,
+    "totalBayar": 881784.0,
+    "cashPaid": 900000.0,
+    "changeAmount": 18216.0,
+    "souvenir": "Tas Belanja",
+    "status": "LUNAS",
+    "notes": "Kulakan rutin warung"
+  },
+  {
+    "invoiceNumber": "NOTA-20261021-0005",
+    "transactionDate": "2026-10-21 15:10:52",
+    "customerName": "Koperasi Warga Mandiri - Salatiga",
+    "customerPhone": "085712345678",
+    "items": [
+      {
+        "productCode": "BRG-003",
+        "productName": "Beras Rojolele Super 25kg",
+        "unit": "Sak",
+        "purchasePrice": 340000.0,
+        "sellingPrice": 374000.0,
+        "quantity": 3,
+        "subtotal": 1122000.0
+      },
+      {
+        "productCode": "BRG-005",
+        "productName": "Minyak Sania Karton (6x2L)",
+        "unit": "Karton",
+        "purchasePrice": 210000.0,
+        "sellingPrice": 231000.0,
+        "quantity": 2,
+        "subtotal": 462000.0
+      },
+      {
+        "productCode": "BRG-017",
+        "productName": "Susu Frisian Flag Karton (48 kl)",
+        "unit": "Karton",
+        "purchasePrice": 560000.0,
+        "sellingPrice": 616000.0,
+        "quantity": 1,
+        "subtotal": 616000.0
+      }
+    ],
+    "totalJual": 2200000.0,
+    "paymentType": "CASH",
+    "tempoWeeks": 0,
+    "taxRate": 0.11,
+    "taxAmount": 242000.0,
+    "interestRate": 0.0,
+    "interestAmount": 0.0,
+    "totalBayar": 2442000.0,
+    "cashPaid": 2200000.0,
+    "changeAmount": 0.0,
+    "souvenir": "Voucher Belanja Rp 100rb",
+    "status": "LUNAS",
+    "notes": "Sembako bulanan koperasi"
+  },
+  {
+    "invoiceNumber": "NOTA-20261022-0006",
+    "transactionDate": "2026-10-22 09:40:52",
+    "customerName": "Minimarket Barokah - Demak",
+    "customerPhone": "085612349876",
+    "items": [
+      {
+        "productCode": "BRG-013",
+        "productName": "Indomie Goreng Dus (40 pcs)",
+        "unit": "Dus",
+        "purchasePrice": 112000.0,
+        "sellingPrice": 128800.0,
+        "quantity": 4,
+        "subtotal": 515200.0
+      },
+      {
+        "productCode": "BRG-014",
+        "productName": "Indomie Ayam Bawang Dus (40 pcs)",
+        "unit": "Dus",
+        "purchasePrice": 108000.0,
+        "sellingPrice": 124200.0,
+        "quantity": 3,
+        "subtotal": 372600.0
+      }
+    ],
+    "totalJual": 887800.0,
+    "paymentType": "CREDIT",
+    "tempoWeeks": 1,
+    "dueDate": "2026-10-29",
+    "taxRate": 0.11,
+    "taxAmount": 97658.0,
+    "interestRate": 0.0,
+    "interestAmount": 0.0,
+    "totalBayar": 985458.0,
+    "cashPaid": 0.0,
+    "changeAmount": 0.0,
+    "souvenir": "Tidak Ada",
+    "status": "BELUM LUNAS",
+    "notes": "Mitra grosir tempo 1 minggu"
+  },
+  {
+    "invoiceNumber": "NOTA-20261022-0007",
+    "transactionDate": "2026-10-22 14:00:52",
+    "customerName": "Restoran Padang Salero - Semarang",
+    "customerPhone": "081987654321",
+    "items": [
+      {
+        "productCode": "BRG-003",
+        "productName": "Beras Rojolele Super 25kg",
+        "unit": "Sak",
+        "purchasePrice": 340000.0,
+        "sellingPrice": 374000.0,
+        "quantity": 2,
+        "subtotal": 748000.0
+      },
+      {
+        "productCode": "BRG-021",
+        "productName": "Bawang Merah Brebes Super 5kg",
+        "unit": "Karung",
+        "purchasePrice": 160000.0,
+        "sellingPrice": 184000.0,
+        "quantity": 1,
+        "subtotal": 184000.0
+      },
+      {
+        "productCode": "BRG-022",
+        "productName": "Bawang Putih Honan Super 5kg",
+        "unit": "Karung",
+        "purchasePrice": 150000.0,
+        "sellingPrice": 172500.0,
+        "quantity": 1,
+        "subtotal": 172500.0
+      }
+    ],
+    "totalJual": 1104500.0,
+    "paymentType": "CREDIT",
+    "tempoWeeks": 2,
+    "dueDate": "2026-11-05",
+    "taxRate": 0.11,
+    "taxAmount": 121495.0,
+    "interestRate": 0.0,
+    "interestAmount": 0.0,
+    "totalBayar": 1225995.0,
+    "cashPaid": 1215228.0,
+    "changeAmount": 0.0,
+    "souvenir": "Tidak Ada",
+    "status": "LUNAS",
+    "notes": "Pelunasan tempo transfer bank"
+  },
+  {
+    "invoiceNumber": "NOTA-20261023-0008",
+    "transactionDate": "2026-10-23 10:25:52",
+    "customerName": "Grosir Mitra Usaha - Kendal",
+    "customerPhone": "087812345678",
+    "items": [
+      {
+        "productCode": "BRG-005",
+        "productName": "Minyak Sania Karton (6x2L)",
+        "unit": "Karton",
+        "purchasePrice": 210000.0,
+        "sellingPrice": 231000.0,
+        "quantity": 4,
+        "subtotal": 924000.0
+      },
+      {
+        "productCode": "BRG-010",
+        "productName": "Tepung Cakra Kembar Karung 25kg",
+        "unit": "Karung",
+        "purchasePrice": 275000.0,
+        "sellingPrice": 302500.0,
+        "quantity": 2,
+        "subtotal": 605000.0
+      }
+    ],
+    "totalJual": 1529000.0,
+    "paymentType": "CREDIT",
+    "tempoWeeks": 3,
+    "dueDate": "2026-11-13",
+    "taxRate": 0.11,
+    "taxAmount": 168190.0,
+    "interestRate": 0.5,
+    "interestAmount": 764500.0,
+    "totalBayar": 2461690.0,
+    "cashPaid": 0.0,
+    "changeAmount": 0.0,
+    "souvenir": "Tidak Ada",
+    "status": "BELUM LUNAS",
+    "notes": "Tempo 3 minggu dengan bunga 50%"
+  },
+  {
+    "invoiceNumber": "NOTA-20261023-0009",
+    "transactionDate": "2026-10-23 11:50:52",
+    "customerName": "Toko Kelontong Berkah Ibu - Boyolali",
+    "customerPhone": "081298712345",
+    "items": [
+      {
+        "productCode": "BRG-008",
+        "productName": "Gula Pasir Kristal Karung 50kg",
+        "unit": "Sak",
+        "purchasePrice": 780000.0,
+        "sellingPrice": 858000.0,
+        "quantity": 1,
+        "subtotal": 858000.0
+      },
+      {
+        "productCode": "BRG-011",
+        "productName": "Telur Ayam Ras 1 Karpet",
+        "unit": "Karpet",
+        "purchasePrice": 52000.0,
+        "sellingPrice": 62400.0,
+        "quantity": 4,
+        "subtotal": 249600.0
+      }
+    ],
+    "totalJual": 1107600.0,
+    "paymentType": "CREDIT",
+    "tempoWeeks": 4,
+    "dueDate": "2026-11-20",
+    "taxRate": 0.11,
+    "taxAmount": 121836.0,
+    "interestRate": 0.5,
+    "interestAmount": 553800.0,
+    "totalBayar": 1783236.0,
+    "cashPaid": 0.0,
+    "changeAmount": 0.0,
+    "souvenir": "Tidak Ada",
+    "status": "BELUM LUNAS",
+    "notes": "Tempo 4 minggu bunga 50%"
+  },
+  {
+    "invoiceNumber": "NOTA-20261023-0010",
+    "transactionDate": "2026-10-23 13:15:52",
+    "customerName": "Kantin Mahasiswa Undip - Semarang",
+    "customerPhone": "085234567891",
+    "items": [
+      {
+        "productCode": "BRG-009",
+        "productName": "Tepung Segitiga Biru 1kg",
+        "unit": "Kg",
+        "purchasePrice": 12500.0,
+        "sellingPrice": 18800.0,
+        "quantity": 6,
+        "subtotal": 112800.0
+      },
+      {
+        "productCode": "BRG-004",
+        "productName": "Minyak Goreng Bimoli 2L",
+        "unit": "Pcs",
+        "purchasePrice": 36000.0,
+        "sellingPrice": 46800.0,
+        "quantity": 3,
+        "subtotal": 140400.0
+      },
+      {
+        "productCode": "BRG-019",
+        "productName": "Kecap Manis Bango 1.5L Pouch",
+        "unit": "Pcs",
+        "purchasePrice": 42000.0,
+        "sellingPrice": 54600.0,
+        "quantity": 1,
+        "subtotal": 54600.0
+      }
+    ],
+    "totalJual": 307800.0,
+    "paymentType": "CASH",
+    "tempoWeeks": 0,
+    "taxRate": 0.11,
+    "taxAmount": 33858.0,
+    "interestRate": 0.0,
+    "interestAmount": 0.0,
+    "totalBayar": 341658.0,
+    "cashPaid": 350000.0,
+    "changeAmount": 8342.0,
+    "souvenir": "Mangkok Keramik",
+    "status": "LUNAS",
+    "notes": "Kantin kampus bayar tunai"
+  }
+]

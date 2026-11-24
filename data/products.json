@@ -1,0 +1,242 @@
+[
+  {
+    "code": "BRG-001",
+    "name": "Beras Ramos Premium 5kg",
+    "category": "Beras",
+    "purchasePrice": 68000.0,
+    "sellingPrice": 81600.0,
+    "stock": 64,
+    "unit": "Sak",
+    "minStock": 10
+  },
+  {
+    "code": "BRG-002",
+    "name": "Beras Pandan Wangi 10kg",
+    "category": "Beras",
+    "purchasePrice": 145000.0,
+    "sellingPrice": 166800.0,
+    "stock": 35,
+    "unit": "Sak",
+    "minStock": 5
+  },
+  {
+    "code": "BRG-003",
+    "name": "Beras Rojolele Super 25kg",
+    "category": "Beras",
+    "purchasePrice": 340000.0,
+    "sellingPrice": 374000.0,
+    "stock": 24,
+    "unit": "Sak",
+    "minStock": 5
+  },
+  {
+    "code": "BRG-004",
+    "name": "Minyak Goreng Bimoli 2L",
+    "category": "Minyak",
+    "purchasePrice": 36000.0,
+    "sellingPrice": 46800.0,
+    "stock": 78,
+    "unit": "Pcs",
+    "minStock": 15
+  },
+  {
+    "code": "BRG-005",
+    "name": "Minyak Sania Karton (6x2L)",
+    "category": "Minyak",
+    "purchasePrice": 210000.0,
+    "sellingPrice": 231000.0,
+    "stock": 29,
+    "unit": "Karton",
+    "minStock": 6
+  },
+  {
+    "code": "BRG-006",
+    "name": "Minyak Filma Jerigen 5L",
+    "category": "Minyak",
+    "purchasePrice": 88000.0,
+    "sellingPrice": 105600.0,
+    "stock": 35,
+    "unit": "Jerigen",
+    "minStock": 8
+  },
+  {
+    "code": "BRG-007",
+    "name": "Gula Pasir Gulaku 1kg",
+    "category": "Gula",
+    "purchasePrice": 17500.0,
+    "sellingPrice": 26300.0,
+    "stock": 120,
+    "unit": "Kg",
+    "minStock": 20
+  },
+  {
+    "code": "BRG-008",
+    "name": "Gula Pasir Kristal Karung 50kg",
+    "category": "Gula",
+    "purchasePrice": 780000.0,
+    "sellingPrice": 858000.0,
+    "stock": 18,
+    "unit": "Sak",
+    "minStock": 4
+  },
+  {
+    "code": "BRG-009",
+    "name": "Tepung Segitiga Biru 1kg",
+    "category": "Tepung",
+    "purchasePrice": 12500.0,
+    "sellingPrice": 18800.0,
+    "stock": 90,
+    "unit": "Kg",
+    "minStock": 15
+  },
+  {
+    "code": "BRG-010",
+    "name": "Tepung Cakra Kembar Karung 25kg",
+    "category": "Tepung",
+    "purchasePrice": 275000.0,
+    "sellingPrice": 302500.0,
+    "stock": 15,
+    "unit": "Karung",
+    "minStock": 4
+  },
+  {
+    "code": "BRG-011",
+    "name": "Telur Ayam Ras 1 Karpet",
+    "category": "Telur",
+    "purchasePrice": 52000.0,
+    "sellingPrice": 62400.0,
+    "stock": 45,
+    "unit": "Karpet",
+    "minStock": 10
+  },
+  {
+    "code": "BRG-012",
+    "name": "Telur Bebek Asin Brebes Tray (30)",
+    "category": "Telur",
+    "purchasePrice": 85000.0,
+    "sellingPrice": 102000.0,
+    "stock": 0,
+    "unit": "Tray",
+    "minStock": 8
+  },
+  {
+    "code": "BRG-013",
+    "name": "Indomie Goreng Dus (40 pcs)",
+    "category": "Mie Instan",
+    "purchasePrice": 112000.0,
+    "sellingPrice": 128800.0,
+    "stock": 54,
+    "unit": "Dus",
+    "minStock": 10
+  },
+  {
+    "code": "BRG-014",
+    "name": "Indomie Ayam Bawang Dus (40 pcs)",
+    "category": "Mie Instan",
+    "purchasePrice": 108000.0,
+    "sellingPrice": 124200.0,
+    "stock": 40,
+    "unit": "Dus",
+    "minStock": 10
+  },
+  {
+    "code": "BRG-015",
+    "name": "Kopi Kapal Api Spesial Dus",
+    "category": "Minuman",
+    "purchasePrice": 120000.0,
+    "sellingPrice": 138000.0,
+    "stock": 42,
+    "unit": "Dus",
+    "minStock": 8
+  },
+  {
+    "code": "BRG-016",
+    "name": "Teh Celup Sosro Bal (50 Box)",
+    "category": "Minuman",
+    "purchasePrice": 135000.0,
+    "sellingPrice": 155300.0,
+    "stock": 32,
+    "unit": "Bal",
+    "minStock": 6
+  },
+  {
+    "code": "BRG-017",
+    "name": "Susu Frisian Flag Karton (48 kl)",
+    "category": "Susu",
+    "purchasePrice": 560000.0,
+    "sellingPrice": 616000.0,
+    "stock": 16,
+    "unit": "Karton",
+    "minStock": 4
+  },
+  {
+    "code": "BRG-018",
+    "name": "Sirup Marjan Cocopandan Dus (12)",
+    "category": "Minuman",
+    "purchasePrice": 230000.0,
+    "sellingPrice": 253000.0,
+    "stock": 3,
+    "unit": "Dus",
+    "minStock": 6
+  },
+  {
+    "code": "BRG-019",
+    "name": "Kecap Manis Bango 1.5L Pouch",
+    "category": "Bumbu",
+    "purchasePrice": 42000.0,
+    "sellingPrice": 54600.0,
+    "stock": 57,
+    "unit": "Pcs",
+    "minStock": 10
+  },
+  {
+    "code": "BRG-020",
+    "name": "Garam Dapur Cap Kapal Bal (20)",
+    "category": "Bumbu",
+    "purchasePrice": 32000.0,
+    "sellingPrice": 41600.0,
+    "stock": 48,
+    "unit": "Bal",
+    "minStock": 10
+  },
+  {
+    "code": "BRG-021",
+    "name": "Bawang Merah Brebes Super 5kg",
+    "category": "Bumbu Segar",
+    "purchasePrice": 160000.0,
+    "sellingPrice": 184000.0,
+    "stock": 22,
+    "unit": "Karung",
+    "minStock": 5
+  },
+  {
+    "code": "BRG-022",
+    "name": "Bawang Putih Honan Super 5kg",
+    "category": "Bumbu Segar",
+    "purchasePrice": 150000.0,
+    "sellingPrice": 172500.0,
+    "stock": 25,
+    "unit": "Karung",
+    "minStock": 5
+  },
+  {
+    "code": "BRG-023",
+    "name": "Margarin Blue Band Master 15kg",
+    "category": "Bahan Kue",
+    "purchasePrice": 320000.0,
+    "sellingPrice": 352000.0,
+    "stock": 2,
+    "unit": "Dus",
+    "minStock": 3
+  },
+  {
+    "code": "BRG-024",
+    "name": "Sunlight Jeruk Nipis 700ml Dus",
+    "category": "Kebersihan",
+    "purchasePrice": 165000.0,
+    "sellingPrice": 189800.0,
+    "stock": 28,
+    "unit": "Dus",
+    "minStock": 5
+  }
+]
